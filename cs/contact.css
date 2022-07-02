@@ -1,0 +1,61 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+/* background-color: lightgray; */
+        }
+/* nav bar custom class */
+/* logo */
+.logo{
+height: 40px;
+width: 40px;
+background-color: white;
+border : 2px solid red;
+border-radius: 20px;
+}
+.nav-link-font{
+font-size: 30px;
+}
+/* form custom class */
+.main-section{
+/* height: 1000px; */
+}
+.contact-background{
+height: 400px;
+width: 100%;
+}
+.contact-title{
+text-align: center;
+color:cadetblue;
+font-size: 20px;
+}
+.contact-form{
+margin:30px 300px 30px 300px;
+ background-color:lightgrey;
+border:1px solid black;
+ border-radius: 10px;
+ box-shadow: 5px 5px 5px 5px lightgray;
+}
+label, textarea, input{
+border-radius: 5px;
+margin-left:300px;
+padding:10px;
+}
+/* form custom class end here */
+/* footer custom css class */
+.footer-padding{
+}
+.social-media-div{
+margin-left: 200px;
+}
+.fa{
+padding:10px;
+height:30px;
+width:30px;
+border-radius: 15px;
+background-color: blue;
+color:white;
+padding:10px;
+text-decoration: none;
+margin-bottom: 10px;
+font-size: 15px;
+}

@@ -1,0 +1,78 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+/* background-color: lightgray; */
+        }
+/* nav bar custom class */
+/* logo */
+.logo{
+height: 40px;
+width: 40px;
+background-color: white;
+border : 2px solid red;
+border-radius: 20px;
+}
+.nav-link-font{
+font-size: 30px;
+}
+/* about custom starts here */
+.about-bg{
+height: 300px;
+width:100%;
+}
+.map-Nepal{
+height:300px;
+width: 100%;
+}
+.mtEverest-intro{
+margin:20px;
+}
+.main-section{
+background-color:lightgrey;
+text-align: justify;
+}
+h2{
+color:darkred;
+}
+p, li{
+font-size: 20px;
+}
+.float-video1{
+float: left;
+margin-right:50px;
+margin-left: 30px;
+border-radius: 10px;
+}
+.float-video2{
+border-radius: 10px;
+margin-left: 50px;
+}
+.climb-video-heading{
+text-align: center;
+background-color: thistle;
+color:darkred;
+margin: 30px;
+}
+.climb-video{
+margin-left: 15px;
+margin-top: 25px;
+}
+/* about custom class  end here  */
+/* footer custom css class */
+.footer-padding{
+}
+.social-media-div{
+margin-left: 200px;
+}
+.fa{
+padding:10px;
+height:30px;
+width:30px;
+border-radius: 15px;
+background-color: blue;
+color:white;
+padding:10px;
+text-decoration: none;
+margin-bottom: 10px;
+font-size: 15px;
+}
